@@ -4,11 +4,17 @@ classone
 {
  public void fun()
 {
-system.out.println("this is maser branch copy");
+system.out.println("this is master branch copy");
 }
 
 }
-:wq
+
+{
+ public void fun2()
+{
+system.out.println("this is featureB branch copy");
+}
+
 
 
 
