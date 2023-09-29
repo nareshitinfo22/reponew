@@ -5,7 +5,10 @@ classone
  public void fun()
 {
 system.out.println("this is master branch copy");
+<<<<<<< HEAD
 }
+=======
+>>>>>>> featureB
 }
 
 {
@@ -14,5 +17,22 @@ system.out.println("this is master branch copy");
 system.out.println("this is featureA branch copy");
 }
 }
+<<<<<<< HEAD
+=======
+
+{
+ public void fun2()
+{
+system.out.println("this is featureB branch copy");
+}
+
+
+
+
+
+
+
+
+>>>>>>> featureB
 
 
