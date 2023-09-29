@@ -11,7 +11,7 @@ system.out.println("this is maser branch copy");
 {
 public void fun1()
 {
-system.out.println("this is featureA branch copy");
+system.out.println("this is featureB branch copy");
 }
 
 }
